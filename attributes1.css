@@ -1,0 +1,59 @@
+.s
+{
+ background-color:rgba(255,0,255,0.3);
+ padding: 20px;
+}
+
+
+.one {
+  position: relative;
+  
+  animation: mymove 5s;
+  animation-fill-mode: forwards;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+
+.two {
+  position: relative;
+  
+  animation: mymove 5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+.three {
+  position: relative;
+  
+  animation: mymove 5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+
+.four{
+  position: relative;
+  
+  animation: mymove 5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+
+.five{
+  position: relative;
+  
+  animation: mymove 5s;
+  animation-fill-mode: forwards;
+}
